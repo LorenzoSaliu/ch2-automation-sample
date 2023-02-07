@@ -1,2 +1,1 @@
-# ch2-automation-sample
-maven deployment on cloudhub2
+# Sample Project for Cloudhub 2.0 Deployment
